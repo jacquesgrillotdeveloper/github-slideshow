@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+I feel like a broken dog, a forgotten god.
 Use the left arrow to go back!
